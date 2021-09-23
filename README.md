@@ -10,9 +10,10 @@ ML question-answer pair with application
   > Numpy
   
 > Hypothesis Testing
-> Data Cleaning
 
 > EDA
+
+> Data Cleaning
 
 > Feature Selection
 
