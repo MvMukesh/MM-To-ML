@@ -13,7 +13,7 @@ ML question-answer pair with application
   
 > Hypothesis Testing
 
-> EDA
+> - [x] EDA
 
 > - [x] Data Cleaning
 
