@@ -1,7 +1,7 @@
 # MM-To-ML
 ML question-answer pair with application
 
-> Basic Stats
+> Basic Stats - [x]
 
 > SQL
 
