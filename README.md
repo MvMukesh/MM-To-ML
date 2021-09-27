@@ -1,21 +1,23 @@
 # MM-To-ML
 ML question-answer pair with application
 
-> Basic Stats - [x]
+> Basic Stats
 
 > SQL
 
-> Python
-  > Pandas
-  > Numpy
+>  - [x] Python
+  
+  > - [x] Pandas
+  
+  > - [x] Numpy
   
 > Hypothesis Testing
 
 > EDA
 
-> Data Cleaning
+> - [x] Data Cleaning
 
-> Feature Selection
+> - [x] Feature Selection
 
 > Feature Engineering
 
@@ -36,9 +38,8 @@ ML question-answer pair with application
 > DT
 
 > Ensemble
-
-  > Bagging
-  > Boosting
+    > Bagging
+    > Boosting
   
 > Clustering (unsupervised)
 
